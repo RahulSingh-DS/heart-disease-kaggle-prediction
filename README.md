@@ -90,12 +90,17 @@ Competition Rank:
 - notebooks/
    heart_disease_kaggle.ipynb
 
-- src/
-  train.py
-  predict.py
+## Dataset
 
-- submission/
-  submission.csv
+The dataset used in this project comes from the Kaggle competition:
+
+Predicting Heart Disease – Playground Series S6E2
+
+Due to GitHub file size limitations, the dataset is not included in this repository.
+
+You can download it from the Kaggle competition page:
+
+https://www.kaggle.com/competitions/playground-series-s6e2/data
 
 
 ---
@@ -104,14 +109,6 @@ Competition Rank:
 
 ### Install dependencies
 -  pip install -r requirements.txt
-
-### Train model
--  python src/train.py
-
-### Generate predictions
--  python src/predict.py
-
-
 
 ---
 
